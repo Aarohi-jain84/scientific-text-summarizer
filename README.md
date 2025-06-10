@@ -39,3 +39,6 @@ Aarohi Jain
 B.Tech Student - Robotics & AI
 Manav Rachna University
 Email: aarohi.jain.2007@gmail.com
+
+## License
+This project is open source and available under the MIT License.
